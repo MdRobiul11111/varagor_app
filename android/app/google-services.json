@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480216592378",
+    "project_id": "roseliveuser",
+    "storage_bucket": "roseliveuser.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480216592378:android:f06494b03a97065c0afe43",
+        "android_client_info": {
+          "package_name": "com.example.varagor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ZNx9drww5aFF9upOgy-zW5wDfA1cSIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
